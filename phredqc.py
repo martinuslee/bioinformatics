@@ -54,3 +54,5 @@ ax.set_xticklabels(
 
 #plt.show()
 plt.savefig('phred_quality.png')
+
+#점수의 분포가 균일하지 않다.
